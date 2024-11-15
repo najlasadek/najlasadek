@@ -1,6 +1,6 @@
 # Why vie for a seat when you can craft your own table?🌍
 
-![Najla Sadek Workspace](path/to/your-image.jpg)
+![Najla Sadek Workspace](https://github.com/najlasadek/my-github-profile/blob/main/Kpznpg7.png)
 
 ## 👩‍💻 About Me
 Aspiring Machine Learning Engineer with a focus on **Computer Vision** and **generative AI for music**.  
